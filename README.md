@@ -29,7 +29,7 @@ Explore colorful underwater worlds, unlock powerful abilities, defeat robotic en
 
 ## Play Online
 
-https://ahmedbahaa-tech.github.io/bikini-quest/
+https://ahmedbahaa-tech.github.io/bikini_quest/
 
 ## Screenshots
 
